@@ -16,13 +16,13 @@ A Mediocre College Student
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ApoMilkFoam&theme=radical&layout=compact)
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MilkFoam-L&theme=radical&layout=compact)
 
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=ApoMilkFoam&show_icons=true&theme=radical&include_all_commits=true)
+![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=MilkFoam-L&show_icons=true&theme=radical&include_all_commits=true)
 
 
 ### Profile Views
 
-![](https://count.getloli.com/get/@ApoMilkFoam.github.readme)
+![](https://count.getloli.com/get/@MilkFoam-L.github.readme)
 </br>
 
