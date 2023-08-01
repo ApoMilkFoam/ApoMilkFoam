@@ -1,10 +1,9 @@
 
 
 <!--   my-ticker -->    
-Hi there 👋, I'm Glom_  
-A Mediocre College Student
+Hi there 👋, I'm Milk_Foam 
 
-![](./src/header_.png)
+A Mediocre College Student
 
 <!--   my-kaggle     
 ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
