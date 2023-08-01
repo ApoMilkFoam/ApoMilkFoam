@@ -16,9 +16,9 @@ A Mediocre College Student
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MilkFoam-L&theme=radical&layout=compact)
+![Quiec's github stats](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MilkFoam-L&theme=radical&layout=compact)
 
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=MilkFoam-L&show_icons=true&theme=radical&include_all_commits=true)
+![BEPb's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=MilkFoam-L&show_icons=true&theme=radical&include_all_commits=true)
 
 
 ### Profile Views
